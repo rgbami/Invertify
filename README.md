@@ -32,6 +32,12 @@ Run the script to open a GUI for selecting the input PDF and saving the output P
 python invert.py
 ````
 
+or 
+
+```
+python3 invert.py
+````
+
 ----
 
 #### Dependencies:

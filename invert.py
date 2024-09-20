@@ -1,5 +1,5 @@
 """ 
-author: @rgbami on github
+author: ami
 last updated: 20.09.24
 to get started run
     pip install pymupdf pillow fpdf

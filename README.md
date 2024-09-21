@@ -18,7 +18,7 @@
 #### Getting Started: 
 To get started with Invertify, clone the repository and install the required dependencies:
 ```
-git clone https://github.com/rgbami/invertify.git
+git clone [repository url]
 cd invertify
 pip install -r requirements.txt
 ```
@@ -45,11 +45,6 @@ python3 invert.py
 - Pillow
 - FPDF
 - Tkinter
-
-----
-
-#### Author
-Created by @rgbami
 
 ----
 
